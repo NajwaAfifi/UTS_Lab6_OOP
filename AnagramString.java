@@ -1,6 +1,4 @@
 
-        System.out.println(isAnagram(str1, str2));
-    }
 
     public static boolean isAnagram(String str1, String str2) {
         // Mengonversi string ke huruf kecil untuk kejelasan dan konsistensi
