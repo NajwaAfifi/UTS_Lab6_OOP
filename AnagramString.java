@@ -1,15 +1,6 @@
 
 
-    public static boolean isAnagram(String str1, String str2) {
-        // Mengonversi string ke huruf kecil untuk kejelasan dan konsistensi
-        str1 = str1.toLowerCase();
-        str2 = str2.toLowerCase();
-
-        // Penanganan kasus khusus jika salah satu string adalah null
-        if (str1 == null || str2 == null) {
-            return false;
-        }
-
+ 
         // Membandingkan panjang kedua string
         if (str1.length() != str2.length()) {
             return false;
