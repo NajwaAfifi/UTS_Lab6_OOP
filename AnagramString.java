@@ -1,10 +1,3 @@
-import java.util.Arrays;
-
-public class AnagramString {
-
-    public static void main(String[] args) {
-        String str1 = "listen";
-        String str2 = "Silent";
 
         System.out.println(isAnagram(str1, str2));
     }
