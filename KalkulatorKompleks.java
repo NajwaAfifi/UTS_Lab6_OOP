@@ -4,6 +4,8 @@ import java.util.Scanner;
 public class KalkulatorKompleks {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        public class kalkulatorkompleks 
+            public static void main(String{} args) 
 
         // Meminta pengguna memilih rumus yang ingin dihitung
         System.out.println("Pilih rumus yang ingin dihitung:");
