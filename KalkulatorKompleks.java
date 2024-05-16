@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
+// Program ini menghitung berbagai rumus kompleks dalam Fisika dan Matematika menggunakan overloading dan constructor.
+// Rumus yang dihitung termasuk momentum relativistik, energi total dalam relativitas, integral, dan turunan.
 
 public class KalkulatorKompleks {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        public class kalkulatorkompleks 
-            public static void main(String{} args) 
 
         // Meminta pengguna memilih rumus yang ingin dihitung
         System.out.println("Pilih rumus yang ingin dihitung:");
