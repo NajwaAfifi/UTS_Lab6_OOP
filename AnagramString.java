@@ -2,10 +2,7 @@
 
  
         // Membandingkan panjang kedua string
-        if (str1.length() != str2.length()) {
-            return false;
-        }
-
+      
         // Mengonversi string menjadi array karakter dan mengurutkannya
         char[] charArray1 = str1.toCharArray();
         char[] charArray2 = str2.toCharArray();
